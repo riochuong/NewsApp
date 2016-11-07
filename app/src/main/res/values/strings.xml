@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="refresh_btn_text">REFRESH</string>
+    <string name="ioexception_error_toast">Error On IO Connection. Please check your network</string>
+    <!--TEXT VIEW KEYS-->
+    <string name="web_title_key">Web Title:</string>
+    <string name="section_key">Section:</string>
+    <string name="publication_date_key">Publication Date:</string>
+    <string name="type_key">Type:</string>
+
+    <string name="no_found">Could not find any articles that related to the search term</string>
+    <string name="search_info_txt">Data Loading is in Progress. Please wait !! </string>
+    <string name="network_connection_error">Device is not connected to the Internet</string>
+
+
+</resources>
